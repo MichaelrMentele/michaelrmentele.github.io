@@ -1,0 +1,51 @@
+header {
+	overflow: hidden;
+	box-sizing: border-box;
+	margin-bottom: 50px;
+}
+
+body p {
+	font-size: 20px;
+}
+
+header h1 {
+	padding: 20px;
+	font-size: 4em;
+}
+
+h1 {
+	display: block;
+	color: white;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+}
+
+section {
+	margin-bottom: 80px;
+}
+
+section div p {
+	height: 150px;
+	overflow: hidden;
+}
+
+img {
+	max-width: 300px;
+	width: 100%;
+}
+
+.spacer { height: 100px; }
+
+a {
+	display: block;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a, h2 { text-align: center; }
+
+footer { padding: 10px; }

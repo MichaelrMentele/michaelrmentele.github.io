@@ -1,0 +1,16 @@
+header h1 { background: purple; }
+h1 { background: fuchsia; }
+h2 {color: fuchsia;}
+section div.row {	overflow: hidden; }
+footer { background: purple; }
+footer a { color: white; }
+
+img	{
+	display: block;
+	max-width: 100%;
+	min-height: 80px;
+	max-height: 80px;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+}
