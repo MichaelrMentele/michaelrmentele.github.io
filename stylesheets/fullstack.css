@@ -1,0 +1,21 @@
+header h1 { background: red; }
+h1 { background: red }
+h2 {color: red;}
+section div.row {	overflow: hidden; }
+footer { background: darkred; }
+footer a { color: white; }
+
+img	{
+	display: block;
+	max-width: 100%;
+	min-height: 80px;
+	max-height: 80px;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+}
+
+section div p {
+	height: auto;
+	overflow: hidden;
+}
